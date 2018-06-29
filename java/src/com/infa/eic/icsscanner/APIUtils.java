@@ -35,13 +35,13 @@ public final class APIUtils {
 	/**
 	 * Access URL of the EIC Instance
 	 */
-//	private static String URL="http://pslxclaire.informatica.com:9085/access/2";
+//	private static String URL="http://<HOST>:<PORT>/access/2";
 	
 	/**
 	 * Credentials.
 	 */
-//	private static String USER="Administrator"; //Enter User name
-//	private static String PASS="admin"; //Enter password
+//	private static String USER=""; //Enter User name
+//	private static String PASS=""; //Enter password
 	
 	
 	
